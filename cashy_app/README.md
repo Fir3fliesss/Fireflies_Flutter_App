@@ -1,6 +1,6 @@
-# cashy_app
+# Fireflies__Flutter_App
 
-A new Flutter project.
+A new Flutter Project with google gemini api.
 
 ## Getting Started
 
