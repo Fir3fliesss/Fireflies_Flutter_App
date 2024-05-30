@@ -1,2 +1,2 @@
-# Cashy_App
-The Casier App with Flutter
+# Fireflies_Flutter_App
+A flutter chatbot ai using gemini api
